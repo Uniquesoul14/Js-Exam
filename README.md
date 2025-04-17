@@ -21,7 +21,11 @@ CSS3
 JavaScript (Vanilla)
 
 🎬 Demo
-https://github.com/user-attachments/assets/afb4574c-29b3-4763-83d9-0724c83d9ce7
+
+
+https://github.com/user-attachments/assets/8b86655f-5dd4-4d06-ba08-71794a389102
+
+
 
 
 
